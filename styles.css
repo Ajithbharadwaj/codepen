@@ -51,15 +51,3 @@ label {
     background: #000;
     height: 30px;
 }
-#html{
-    color: orangered;
-}
-#css{
-    color: rgb(58, 58, 238);
-}
-#js{
-    color: yellow;
-}
-#output{
-    color: greenyellow;
-}
